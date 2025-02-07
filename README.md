@@ -1,4 +1,4 @@
-# 🎮 Pinball Physics Project 
+# 🎮 Pinball Project 
 **A Java-based pinball game using JBox2D physics engine**  
 [![GitHub Stars](https://img.shields.io/github/stars/xts-Michi/Pinball-Project?style=social)](https://github.com/xts-Michi/Pinball-Project/stargazers)  
 *Project by xts-Michi*
